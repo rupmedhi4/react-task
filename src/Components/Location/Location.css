@@ -1,0 +1,44 @@
+.location-details{
+    color: #000000;
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    margin-top: 7rem;
+}
+.location-details span{
+    margin-right: 6rem;
+    
+}
+.locationAdd-btn {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #c3c1c1;
+    border-width: 1px;
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 21rem;
+    right: 28rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .locationAdd-btn div {
+    color: white;
+    font-family: 'Poppins-Bold', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+  }
+  
+.location-hr{
+    border-style: solid;
+    border-color: #c3c1c1;
+    border-width: 2px 0 0 0;
+    width: 969px;
+    height: 0px;
+    position: relative;
+    margin-top: 1rem;
+}
